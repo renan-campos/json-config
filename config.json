@@ -1,0 +1,5 @@
+{
+    "program_name": "json-config",
+    "hello_message": "Hello World!",
+    "bye_message": "Goodbye world."
+}
